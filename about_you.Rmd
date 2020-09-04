@@ -1,7 +1,7 @@
 ---
 title: "First Knit"
-author: "Dr. J"
-date: "6 Feb 2020"
+author: "Eric Soto"
+date: "28 Aug 2020"
 output: 
   html_document:
     number_sections: true
@@ -21,9 +21,9 @@ xx<-getwd()
 print(xx)
 #Drive_ltr <- strtrim(xx,2)
 #yy <- str_glue("{Drive_ltr}\\AAA_Owner_Info\\My_photo.jpg")
-yy = 'My_photo.jpg'
+yy = 'Kawhi.jpg'
 my_pict <- load.image(yy)
-plot(my_pict,axes=FALSE,main="I'm Confused")  
+plot(my_pict,axes=FALSE,main="Fun guy")  
 ```
 
 # A Little Survey
@@ -33,11 +33,10 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## Where are you now?  
 What row are you in, front,middle or back?  Do you usually choose a similiar row in other classes? What is the computer number where you are sitting?  How on a scale of 1 to 10 (1=low, 10=high) How you feel about periodic seat re-assignment, say how and why. Teams, have you ever worked on one in a class setting?  
 
-I'm at the front of the class.  Computer 71811. On a scale of 1-10 I'm a 1. I don't like seat reassignment.  I worked on a team in an earlier class
 
 ###my answer     
   
-   
+Irrelevent I am sitting at home due to the school being closed for the Corona   
      
 
 
@@ -46,6 +45,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 
 ###my answer     
   
+  Eric is my name but I go by Big Daddy, Im just playing call me Eric
    
  
 
@@ -57,7 +57,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ###my answer     
   
-   
+   I would love to make my own life at the end of the day. I think there will be nothing better than just knowing that I am one who worked my way up. I want to get at least my bachelors, and maybe when Im old go back to school again and get another degree.
  
 
 
@@ -68,7 +68,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ###my answer     
   
-   
+   No Sir I havent ever been out of the country.If i could go anywhere I would probably go to Japan or England to see the history. I would probably choose the Marines, I say that because I think Its go all on or not at all.
   
 
 
@@ -80,7 +80,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ###my answer     
   
-   
+   I would like to pass with an A im going to try my hardest. I dont think im good at math so whatver the minimum is ill take.
  
 
 
@@ -94,7 +94,7 @@ How do you get to class? Are there issues that limit when you can be at the coll
 ###my answer   
   
    
-  
+  I am running on a Mac book air but i have no clue how to use it if im being honest. I am straight out of High school, Eastside highschool to be exact . I currently work at del taco as well.
 
 
 
